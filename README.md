@@ -7,7 +7,7 @@
 ## [Preprocessing]
 
 ### Freeware
-- Advanced Normalization Tools(http://stnava.github.io/ANTs/)
+- Advanced Normalization Tools(http://stnava.github.io/ANTs/, https://github.com/ANTsX/ANTs/wiki/Compiling-ANTs-on-Linux-and-Mac-OS)
 - FreeSurfer Software(https://surfer.nmr.mgh.harvard.edu)
 
 ### Registration
