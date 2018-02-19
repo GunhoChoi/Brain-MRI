@@ -7,7 +7,7 @@
 ## [Preprocessing]
 
 ### Freeware
-- Advanced Normalization Tools(http://stnava.github.io/ANTs/, https://github.com/ANTsX/ANTs/wiki/Compiling-ANTs-on-Linux-and-Mac-OS)
+- Advanced Normalization Tools(http://stnava.github.io/ANTs/,https://github.com/ANTsX/ANTs/wiki/Compiling-ANTs-on-Linux-and-Mac-OS)
 - FreeSurfer Software(https://surfer.nmr.mgh.harvard.edu)
 
 ### Registration
@@ -16,6 +16,7 @@
 
 ### Others
 - Simple ITK Notebook(https://github.com/SimpleITK/SimpleITK, https://github.com/InsightSoftwareConsortium/SimpleITK-Notebooks)
+- IPAM(http://www.ipam.ucla.edu/programs/workshops/new-deep-learning-techniques/?tab=schedule,http://www.ipam.ucla.edu/abstract/?tid=14549&pcode=DLT2018)
 
 ## [NifTK]
 
