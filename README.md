@@ -1,6 +1,10 @@
 # Brain MRI 
 - Things to take care when dealing with brain MRI
 
+## Tutorial
+
+- Nipype Beginner's Guide(http://miykael.github.io/nipype-beginner-s-guide/neuroimaging.html)
+
 ## [Data]
 - MS Lesion Segmentation(https://www.nitrc.org/projects/msseg/)
 
