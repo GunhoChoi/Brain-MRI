@@ -1,14 +1,14 @@
 # Brain MRI 
 - Things to take care when dealing with brain MRI
 
-## Tutorial
+## Tutorials
 
 - Nipype Beginner's Guide(http://miykael.github.io/nipype-beginner-s-guide/neuroimaging.html)
 
-## [Data]
+## Data
 - MS Lesion Segmentation(https://www.nitrc.org/projects/msseg/)
 
-## [Preprocessing]
+## Preprocessing
 
 ### Freeware
 - Advanced Normalization Tools(http://stnava.github.io/ANTs/,https://github.com/ANTsX/ANTs/wiki/Compiling-ANTs-on-Linux-and-Mac-OS)
@@ -22,7 +22,7 @@
 - Simple ITK Notebook(https://github.com/SimpleITK/SimpleITK, https://github.com/InsightSoftwareConsortium/SimpleITK-Notebooks)
 - IPAM(http://www.ipam.ucla.edu/programs/workshops/new-deep-learning-techniques/?tab=schedule,http://www.ipam.ucla.edu/abstract/?tid=14549&pcode=DLT2018)
 
-## [NifTK]
+## NifTK
 
 - https://github.com/NifTK/NiftyNet
 - https://cmiclab.cs.ucl.ac.uk/CMIC/NiftyNetExampleServer/blob/master/dense_vnet_abdominal_ct_model_zoo.md
